@@ -1,2 +1,9 @@
 # flexmoney.github.io
-Here i have tried connectivity with the database but in my localservers beacuse i have to pay for connectivity with database which i can't afford right now
+Basic Dynamic pages shown in this repository.
+Connected database on my Local Server.
+And I have attached the flexmoney.sql file in git folder
+
+Link - https:/pankajkannavedia.github.io/flexmoney.github.io/
+
+
+ER Diagram – It is also attached in git folder.
